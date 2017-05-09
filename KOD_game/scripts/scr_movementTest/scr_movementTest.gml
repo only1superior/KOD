@@ -1,4 +1,5 @@
 // Process input
+
 if (keyboard_check(vk_up) && place_free(x, y - MOV_SPD)) vspd = -MOV_SPD;
 else if (keyboard_check(vk_down) && place_free(x, y + MOV_SPD)) vspd = MOV_SPD;
 else vspd = 0;
@@ -18,3 +19,4 @@ if (abs(hspd) == abs(vspd))
 
 x += hspd;
 y += vspd;
+script_execute(cAnimation)

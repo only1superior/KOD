@@ -1,38 +1,38 @@
 {
-    "id": "4a77ad97-457a-4ec9-b84f-e24a28fd3a32",
+    "id": "73c6ceb6-a441-45a8-a5e1-a7f795a8f6a0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_player",
+    "name": "obj_checkbox",
     "eventList": [
         {
-            "id": "a4a303d0-fe22-4f4e-bfcc-88d6a2b88c30",
+            "id": "1901a22c-a842-424b-9dc7-a34e9cc501dc",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4a77ad97-457a-4ec9-b84f-e24a28fd3a32"
+            "m_owner": "73c6ceb6-a441-45a8-a5e1-a7f795a8f6a0"
         },
         {
-            "id": "b8e4fed3-576b-40fa-bb29-0a57f7ee2cdc",
+            "id": "83df9009-4a05-465d-bba2-a17b35edfeac",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "4a77ad97-457a-4ec9-b84f-e24a28fd3a32"
+            "m_owner": "73c6ceb6-a441-45a8-a5e1-a7f795a8f6a0"
         },
         {
-            "id": "0028a239-a9a7-4b62-a103-978b3b342dda",
+            "id": "1f185149-4d72-4406-97b8-cd27f7bbcafb",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "4a77ad97-457a-4ec9-b84f-e24a28fd3a32"
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "73c6ceb6-a441-45a8-a5e1-a7f795a8f6a0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -51,6 +51,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "799356f0-dc59-4e26-bca2-e515095dd231",
+    "spriteId": "0dcff8b8-92fe-4cba-a57e-690f97b41119",
     "visible": true
 }
