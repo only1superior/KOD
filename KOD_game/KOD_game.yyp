@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "4a77ad97-457a-4ec9-b84f-e24a28fd3a32",
+            "Value": {
+                "id": "2a7f3b2e-e7d6-4c43-91d3-ceaa87498412",
+                "resourcePath": "objects\\obj_playerTest\\obj_playerTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5e50f33b-5b2d-458c-b545-1a6c4359b0c0",
             "Value": {
                 "id": "2c3d25c1-77a8-45e3-b9b7-be5631b19de4",
@@ -156,6 +164,14 @@
                 "id": "3a4cf412-4b19-4c59-97ad-2f3b07dfce41",
                 "resourcePath": "views\\a0f148ad-f884-4926-806b-492e22e9bca0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a2bebd05-7334-4758-aa10-e9d7749bd07e",
+            "Value": {
+                "id": "a815be08-ddc3-47ea-aec2-1f2ea60a568a",
+                "resourcePath": "scripts\\scr_animationTest\\scr_animationTest.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -247,6 +263,14 @@
             }
         },
         {
+            "Key": "ef913a4a-75aa-4d7c-8545-c00c66e70e44",
+            "Value": {
+                "id": "9c114d05-e861-46bb-ba13-43588df532a4",
+                "resourcePath": "scripts\\scr_movementTest\\scr_movementTest.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "044f2bec-e605-4c77-803b-6856ade970a4",
@@ -265,6 +289,8 @@
     ],
     "script_order": [
         "5e50f33b-5b2d-458c-b545-1a6c4359b0c0",
+        "ef913a4a-75aa-4d7c-8545-c00c66e70e44",
+        "a2bebd05-7334-4758-aa10-e9d7749bd07e",
         "05222c5b-4a5e-4a0d-acf4-c8dbc24968c7",
         "70aaaf52-6703-4040-bac0-3474c79570bf"
     ],
